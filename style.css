@@ -131,3 +131,10 @@ text-transform: uppercase;
   transform: rotateY(0deg);
   z-index: 11;
 }
+footer{
+  text-align: center;
+  color: #c7004c;
+  font-family: 'Cinzel', serif;
+  font-size: 40px;
+  text-transform: uppercase;
+}
